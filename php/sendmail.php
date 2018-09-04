@@ -1,7 +1,9 @@
 <?php
 
+/* All rights reserved Web-brick design author:Jasmine Khalimova */
+
 $to = "info@web-brickdesign.com";
-$subject = "New Query From Web-BrickDesign.com";
+$subject = "New message from web-brickdesign.com";
 $errorMessages = array();
 $name = $phone = $emailBody = $fromEmail = "";
 
